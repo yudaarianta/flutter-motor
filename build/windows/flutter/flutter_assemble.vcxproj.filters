@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main\build\windows\CMakeFiles\26928bde82bf6309ad45ae1b35e1ec17\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main\build\windows\CMakeFiles\296960063b05397fc26109f7bafdff02\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4412F551-BD42-3536-A77C-2796D856481A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

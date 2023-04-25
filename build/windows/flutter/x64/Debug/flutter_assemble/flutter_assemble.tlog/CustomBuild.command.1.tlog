@@ -1,0 +1,28 @@
+^C:\USERS\DARMA\DOWNLOADS\FLUTTER-PENJUALAN-MOTOR-MAIN\FLUTTER-PENJUALAN-MOTOR-MAIN\BUILD\WINDOWS\CMAKEFILES\26928BDE82BF6309AD45AE1B35E1EC17\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main\windows\flutter\ephemeral PROJECT_DIR=C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main FLUTTER_TARGET=C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\darma\Downloads\flutter-penjualan-motor-main\flutter-penjualan-motor-main\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DARMA\DOWNLOADS\FLUTTER-PENJUALAN-MOTOR-MAIN\FLUTTER-PENJUALAN-MOTOR-MAIN\BUILD\WINDOWS\CMAKEFILES\296960063B05397FC26109F7BAFDFF02\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DARMA\DOWNLOADS\FLUTTER-PENJUALAN-MOTOR-MAIN\FLUTTER-PENJUALAN-MOTOR-MAIN\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/darma/Downloads/flutter-penjualan-motor-main/flutter-penjualan-motor-main/windows -BC:/Users/darma/Downloads/flutter-penjualan-motor-main/flutter-penjualan-motor-main/build/windows --check-stamp-file C:/Users/darma/Downloads/flutter-penjualan-motor-main/flutter-penjualan-motor-main/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
